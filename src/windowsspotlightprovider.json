@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "liujed@users.noreply.github.com",
+                "Name": "Jed Liu"
+            }
+        ],
+        "Description": "Windows Spotlight",
+        "Name": "Windows Spotlight"
+    },
+    "X-KDE-PlasmaPoTDProvider-Identifier": "windowsspotlight"
+}
